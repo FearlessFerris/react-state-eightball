@@ -1,0 +1,15 @@
+/* EightBall.css */
+.EightBall {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+  }
+  
+  .EightBall p {
+    text-align: center;
+  }
+  
